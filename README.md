@@ -63,7 +63,7 @@
 
 ## 🔧 **Installation Instructions**  
 
-1. **Download the .xlam file** from the [Releases page]([https://github.com/saddamskst/Skill-Course-10x/releases/tag/v1.0]).  
+1. **Download the .xlam file** from the [Releases page](https://github.com/saddamskst/Skill-Course-10x/releases/tag/v1.0).  
 2. Double-click the downloaded file and follow the installation steps.  
 3. Restart Excel, and you're ready to go!  
 
@@ -79,7 +79,7 @@
 
 ## 🛠️ **Feedback & Support**  
 
-- Found a bug? Have suggestions? Open an issue [here]([https://github.com/saddamskst/Skill-Course-10x/issues]).  
+- Found a bug? Have suggestions? Open an issue [here](https://github.com/saddamskst/Skill-Course-10x/issues).  
 - For support and video tutorials, check the **YouTube Channels** section in the add-in.  
 
 ---
@@ -92,8 +92,8 @@
 ---
 
 ## 📺 **YouTube Channel & Website**  
-- 🎥 **YouTube**: [Saddam Tech]([#](https://www.youtube.com/@saddamtechs))  
-- 🌐 **Website**: [My Portfolio]([#](https://saddam.skst.in/))  
+- 🎥 **YouTube**: [Saddam Tech](https://www.youtube.com/@saddamtechs)  
+- 🌐 **Website**: [My Portfolio](https://saddam.skst.in/)  
 
 **🎉 Get started today and supercharge your Excel productivity with Skill Course 10x! 🚀**  
 
